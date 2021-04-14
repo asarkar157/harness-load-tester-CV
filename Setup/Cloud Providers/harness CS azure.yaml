@@ -1,0 +1,6 @@
+harnessApiVersion: '1.0'
+type: AZURE
+azureEnvironmentType: AZURE
+clientId: 67102bbb-c844-4010-913a-2db2fd34c15e
+key: gcpkms:lwGi65jKSSWfWm7wBHw5wg
+tenantId: 902ce9bd-e39e-4972-8a0c-5a4e39b96bd8

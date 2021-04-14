@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: gcpkms:s9hFI5P_SXOowlax2TvA_A
+url: https://github.com/wings-software/tech-bootcamp
+urlType: REPO
+username: csgitharness

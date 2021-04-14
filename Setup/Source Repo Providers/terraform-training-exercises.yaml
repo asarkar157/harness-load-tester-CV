@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: gcpkms:P0SJ7B4KQ0iX3hJ_NkJRPA
+url: https://github.com/asarkar157/terraform.git
+urlType: REPO
+username: asarkar157@gmail.com
